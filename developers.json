@@ -3,8 +3,28 @@
     "developers": [
 
     {
-    "name":"This is Developers Section!!",
-    "description":""
+    "name":"8 Best IDE for the Developers!!",
+    "description":"1) Linx:-\nIt is a low code IDE and server. IT pros use Linx to quickly create custom automated business processes, integrate applications, expose web services and to efficiently handle high workloads.\nLink:- http://bit.ly/LinxDesigner \n\n2) NetBeans:-\nNetBeans is a popular, Free, open-source IDE. It allows developing desktop, mobile and web applications.\nLink:- http://bit.ly/NetbeansDownload \n\n3) Cloud9 IDE:-\nCloud9 IDE is an online integrated software development environment. It supports many programming languages like C, C++, PHP, Ruby, Perl, Python, JavaScript and Node.js.\nLink:- http://bit.ly/Cloud9Download \n\n4) Zend Studio:-\nZend Studio allows software developers to code faster, debug more easily. It is next-generation PHP IDE designed to create apps for boosting developers' productivity. It scales according to the DPI settings of the underlying operating system.\nLink:- http://bit.ly/ZendStudio \n\n5) Atom:-\nAtom is a solid all-around text-editor. It is fully free and open source. It can be customized to do anything but without a need of modifying the config file.\nLink:- http://bit.ly/AtomDownload \n\n6) SAA\nSpiralogics Application Architecture (SAA) is a cloud-based software development tool. It allows users to build and customize their applications online and deploy them. It also allows users to choose from a set of prebuilt applications or customize them it from scratch.\nLink:- http://bit.ly/SpiralogicsApplication \n\n7) CodeLobster:-\n\nCodelobster streamlines and simplifies PHP software development. process. It supports CMS like Wordpress, Drupal, Joomla, and Magento.\nLink:- http://bit.ly/CodeLobsterFree \n\n8) CodeCharge Studio:-\nCodeCharge Studio offers the fastest way to build applications. This tool helps to develop data-driven Web sites or enterprise Internet and Intranet systems.\nLink:- http://bit.ly/CodeChargeStudioDownload "
+    },
+
+    {
+    "name":"4 Best Frameworks for the Developers!!",
+    "description":"1) Bootstrap:-\nBootstrap is a responsive framework for developing with HTML, CSS, and JS. It has many in-builds components, which you can easily drag and drop to assemble responsive web pages.\nLink:- http://bit.ly/BootstrapDownload \n\n2) Expression Studio:-\nExpression Studio is a set of a family of tools for professional designer's developers. It is a robust professional design tool which gives creative freedom to developers.\nLink:- http://bit.ly/MicrosoftDownloadCentre \n\n3) HTML5 Builder:-\nHTML5 Builder is a software solution for building the web and mobile apps. It can develop an app using a single HTML5, CSS3, JavaScript and PHP codebase. It helps to target multiple mobile operating systems, devices and Web browsers.\nLink:- http://bit.ly/RADStudioDownload \n\n4) Visual Online:-\nVisual Studio Online is a collection of services. It is fast and easy to plan, build and ship software across a variety of platforms. These software development tools allow the organization to create the perfect development environment.\nLink:- http://bit.ly/VisualStudioDownloadss"
+    },
+
+    {
+    "name":"2 Best Cloud Tools for the Developers!!",
+    "description":"1) Kwatee:-\nKwatee Agile Deployment is a software development tool. It automates applications or micro services to any number of servers. It fully automates deployments of text and binary files from any number of target servers.\nLink:- http://bit.ly/KwateeDownload \n\n2) Azure:-\nMicrosoft Azure is widely used by developers to build, deploy and manage web applications.\nLink:- http://bit.ly/2Tl1IvN"
+    },
+
+    {
+    "name":"Best Data Science Tools for the Developers!!",
+    "description":"1) Data studio:-\nDataiku DSS is a collaborative data science software platform. It is used by data scientists, data analysts, and engineers to explore, prototype, build and deliver their data products.\nLink:- http://bit.ly/DataikuDSS "
+    },
+
+    {
+    "name":"3 Best Source Control Tools for the Developers!!",
+    "description":"1) Github:-\nGitHub allows developers to review code, manage projects, and build software. It offers right tool for different development jobs.\nLink:- http://bit.ly/2Tm3DR4 \n\n2) BitBucket:-\nBitbucket is a version control tool. It facilitates easy collaboration amongst software development team. It integrates very well with JIRA, a famous project and issue-managing app.\nLink:- http://bit.ly/2EXqBLd \n\n3) Cloudforge:-\nCloudForge is a software-as-a-service product for application development. It Integrates and manages various development tools.\nLink:- http://bit.ly/2s2eUdA \n\n"
     }
 
     ]
