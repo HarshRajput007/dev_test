@@ -3,38 +3,10 @@
     "developers": [
 
     {
-    "name":"Facebook will open Ad API to increase political transparency!!",
-    "description":"Following increasing pressure, Facebook will be opening up its Ad API to increase transparency around how it serves political adverts...",
-    "image":"https://techcrunch.com/wp-content/uploads/2018/02/facebook-downvote-button.png?w=730&crop=1",
-    "url":"https://hackalpha.blogspot.com/2019/02/facebook-will-open-ad-api-to-increase.html"
-    },
-
-    {
-    "name":"Google details Play Store’s upcoming 64-bit app requirement!!",
-    "description":"Google has provided further details on the upcoming requirement for Android apps on the Play Store to have 64-bit versions. The company first announced the change in....",
-    "image":"https://www.developer-tech.com/media/img/news/xgoogle_android_64_bit_apps_developer_play_store_policy_requirement.jpg.800x600_q96.png.pagespeed.ic.bZM5TztoBU.webp",
-    "url":"https://hackalpha.blogspot.com/2019/02/google-details-play-stores-upcoming-64.html"
-    },
-
-    {
-    "name":"Twitter kills API access of apps used to buy followers!!",
-    "description":"Twitter is finally tackling its problem of people buying followers by cutting off API access of apps claiming to offer such a service....",
-    "image":"https://www.developer-tech.com/media/img/news/xtwitter_buy_followers_api_access_developer_programming_android_ios.jpg.800x600_q96.png.pagespeed.ic.BN7033IS1c.webp",
-    "url":"https://hackalpha.blogspot.com/2019/02/twitter-kills-api-access-of-apps-used.html"
-    },
-
-    {
-    "name":"Apple revokes Facebook’s enterprise developer certificate!!",
-    "description":"Apple has put Facebook on the naughty step and revoked its enterprise developer certificate following a data-snooping app scandal.For those who expected Facebook’s apparent disregard for data privacy...",
-    "image":"https://www.developer-tech.com/media/img/news/xfacebook_research_app_ios_apple_ban_enterprise_developer_certificate_cambridge_analytica_scandal.jpg.800x600_q96.png.pagespeed.ic.7_eE8uyZbl.webp",
-    "url":"https://hackalpha.blogspot.com/2019/02/apple-revokes-facebooks-enterprise.html"
-    },
-
-    {
-    "name":"Square launches customisable In-App Payments SDK!!",
-    "description":"Payments solution provider Square has launched a new SDK enabling developers to easily integrate support for in-app payments.With minimal coding, the SDK promises to enable accepting and storing credit card...",
-    "image":"https://www.developer-tech.com/media/img/news/xSDK_header.png.800x600_q96.png.pagespeed.ic.nlPM7FMGID.webp",
-    "url":"https://hackalpha.blogspot.com/2019/02/square-launches-customisable-in-app.html"
+    "name":"This is Developers Section!!",
+    "description":"",
+    "image":"",
+    "url":""
     }
 
     ]
