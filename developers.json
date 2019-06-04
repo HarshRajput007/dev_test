@@ -1,13 +1,11 @@
 {
-    "error":false,
-    "developers": [
-
+  "error": false,
+  "developers": [
     {
-    "name":"This is Developers Section!!",
-    "description":"",
-    "image":"",
-    "url":""
+      "name": "This is Developers Section!!",
+      "description": "",
+      "image": "https://fossbytes.com/wp-content/uploads/2019/03/programmer-coding-640x360.jpg",
+      "date": "Today"
     }
-
-    ]
-    }
+  ]
+}
